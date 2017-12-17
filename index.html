@@ -52,14 +52,15 @@
              margin-top: .5em;
          }
          #face {
-             animation: spin infinite 2.5s linear;
+             animation: woaahh infinite 2.5s linear;
              height: 22em;
              width: 22em;
              padding-bottom: 2em;
          }
-         @keyframes spin {
-             from {transform:rotate(0deg);}
-             to {transform:rotate(360deg);}
+         @keyframes woaahh {
+             0% {transform:rotate(0deg) scale(1,1);}
+             50% {transform:rotate(180deg) scale(1.5);}
+             100% {transform:rotate(360deg) scale(1,1);}
          }
         </style>
     </head>
