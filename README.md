@@ -1,5 +1,5 @@
-# [Wrong Time](http://wrongtime.date)
-[![Build Status](https://travis-ci.org/mattmatters/wrongTime.svg?branch=master)](https://travis-ci.org/mattmatters/wrongTime)
-[![Website Status](https://img.shields.io/website-up-down-green-red/http/wrongtime.date.svg?label=WebsiteStatus)](http://wrongtime.date)
+# [Dan's Xmas Miracle](http://danisbubkis.men)
+[![Build Status](https://travis-ci.org/mattmatters/dansxmasmiracle.svg?branch=master)](https://travis-ci.org/mattmatters/dansxmasmiracle)
+[![Website Status](https://img.shields.io/website-up-down-green-red/http/danisbubkis.men.svg?label=WebsiteStatus)](http://danisbubkis.men)
 
-Conveniently giving wrong times since 1993-35-222.
+The magic of Christmas for everyone.
